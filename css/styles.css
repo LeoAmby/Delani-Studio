@@ -28,7 +28,9 @@ body {
 
 #click {
     margin-top:10%;
-    /* padding-right:5px; */
+    margin-right:95px;
+    position: initial;
+
 }
  
  #intro {
