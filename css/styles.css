@@ -1,10 +1,10 @@
 body {
     background-color: white;
 }
-.container-fluid {
+ #top {
     background-image: url("../images/img1.jpg");
     background-size:cover;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
 }
 
@@ -34,22 +34,30 @@ body {
     /* margin-left:22%; */
     text-transform: uppercase;
 }
-.container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
+
 
 #second {
-    margin-top:70px;
+    margin-top:50px;
     text-align: center;
     line-height: 35px;
+    margin-bottom: 30px;
 }
 
 h2 {
     text-transform: uppercase;
+}
+
+#mid {
+    background-image: url("../images/img2.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    color:white;
+}
+
+#mid h1 {
+
 }
 
 
