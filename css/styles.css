@@ -60,5 +60,22 @@ h2 {
     padding-top:95px;
 }
 
+#third {
+    padding-top:20px;
+}
+
+.row {
+    margin-top: 40px;
+}
+
+#third h2 {
+    color:black;
+    padding-top:30px;
+}
+
+#third p {
+    color: black;
+}
+
 
 
