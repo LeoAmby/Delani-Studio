@@ -152,3 +152,17 @@ textarea {
 }
 
 /* this is where the styles for jquery elements begin */
+#design {
+    display: none;
+}
+
+#development {
+    display:none;
+}
+
+#product {
+    display:none;
+}
+#third img {
+    cursor: pointer;
+}
