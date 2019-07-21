@@ -185,6 +185,9 @@ textarea {
     top: 40%;
     width: 60%;
     opacity: 0.5px;
+    border-radius: 5px;
+    border:1px solid black;
+    text-transform: uppercase;
     display: none;
 
 }
@@ -201,6 +204,10 @@ textarea {
     top: 40%;
     width: 50%;
     opacity: 0.5px;
+    border-radius: 5px;
+    border:1px solid black;
+    text-transform: uppercase;
+    display: none;
 }
 .hover3  { 
     background-color: white;
@@ -215,8 +222,12 @@ textarea {
     top: 40%;
     width: 50%;
     opacity: 0.5px;
-    /* display: none; */
+    border-radius: 5px;
+    border:1px solid black;
+    text-transform: uppercase;
 
+    display: none;
+    
 }
 .hover4 { 
     background-color: white;
@@ -231,7 +242,10 @@ textarea {
     top: 40%;
     width: 40%;
     opacity: 0.5px;
-    /* display: none; */
+    border-radius: 5px;
+    border:1px solid black;
+    text-transform: uppercase;
+    display: none;
 
 }
 .hover5 { 
@@ -247,7 +261,10 @@ textarea {
     top: 40%;
     width: 50%;
     opacity: 0.5px;
-    /* display: none; */
+    border-radius: 5px;
+    border:1px solid black;
+    text-transform: uppercase;
+    display: none;
 
 }
 
@@ -264,7 +281,10 @@ textarea {
     top: 40%;
     width: 40%;
     opacity: 0.5px;
-    /* display: none; */
+    border-radius: 5px;
+    border:1px solid black;
+    text-transform: uppercase;
+    display: none;
 
 }
 .hover7 { 
@@ -280,7 +300,10 @@ textarea {
     top: 40%;
     width: 50%;
     opacity: 0.5px;
-    /* display: none; */
+    border-radius: 5px;
+    border:1px solid black;
+    text-transform: uppercase;
+    display: none;
 
 }
 .hover8 { 
@@ -296,6 +319,9 @@ textarea {
     top: 40%;
     width: 50%;
     opacity: 0.5px;
-    /* display: none; */
+    border-radius: 5px;
+    border:1px solid black;
+    text-transform: uppercase;
+    display: none;
 
 }
