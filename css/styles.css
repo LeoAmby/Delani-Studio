@@ -172,7 +172,7 @@ textarea {
     position: relative;
     display: inline-block;
 }
-.hover1 {
+ .hover1  /*.hover3 .hover5 .hover6 .hover7 .hover8 */{ 
     background-color: white;
     position: static;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -187,5 +187,115 @@ textarea {
     opacity: 0.5px;
     display: none;
 
+}
+.hover2 {
+    background-color: white;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 50%;
+    opacity: 0.5px;
+}
+.hover3  { 
+    background-color: white;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 50%;
+    opacity: 0.5px;
+    /* display: none; */
+
+}
+.hover4 { 
+    background-color: white;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 40%;
+    opacity: 0.5px;
+    /* display: none; */
+
+}
+.hover5 { 
+    background-color: white;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 50%;
+    opacity: 0.5px;
+    /* display: none; */
+
+}
+
+.hover6 { 
+    background-color: white;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 40%;
+    opacity: 0.5px;
+    /* display: none; */
+
+}
+.hover7 { 
+    background-color: white;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 50%;
+    opacity: 0.5px;
+    /* display: none; */
+
+}
+.hover8 { 
+    background-color: white;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 50%;
+    opacity: 0.5px;
+    /* display: none; */
 
 }
