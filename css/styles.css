@@ -166,3 +166,26 @@ textarea {
 #third img {
     cursor: pointer;
 }
+
+/* styles for the portfolio hovering effects */
+#four  .col-sm-3{
+    position: relative;
+    display: inline-block;
+}
+.hover1 {
+    background-color: white;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 60%;
+    opacity: 0.5px;
+    display: none;
+
+
+}
