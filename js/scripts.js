@@ -90,4 +90,20 @@ $(document).ready(function () {
     $(this).stop().animate()
     $('.hover8').fadeOut();
   });
-});
+
+  //form validation and functionality
+
+
+}); 
+
+function yourMessage(){
+  var name = document.getElementById("inputName").value;
+  var email = document.getElementById("inputEmail").value;
+  var comments = document.getElementById ("comment").value
+  if (document.getElementById("inputName").value  && document.getElementById("inputEmail").value!=""){
+    alert("Hello " + name + ", Your form is submitted Successfully. Thank you. We shall stay in touch");
+  } 
+    else {
+      alert ("Kindly enter the valid inputs");
+    }
+  };
