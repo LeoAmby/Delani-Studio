@@ -1,15 +1,15 @@
-##Delani Studio Replicate
+## Delani Studio Replicate
 
-##Author
+## Author
     Leonidah Mwamto
 
-##Description
+## Description
     - This is a replication of an existing site.
     - The difference with the original site is the        
        application of jQuery in manipulating the site's DOM.
     - In the site, the user is able to observe hidden content, hover over various portfolio projects and comment through a contact us form.
 
-##Screenshot
+## Screenshot
     <img src="images/screencapture.png" width="1000">
 
 ## Technologies Used
